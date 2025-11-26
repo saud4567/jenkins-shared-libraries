@@ -1,3 +1,3 @@
-def calls(){
+def call(){
 echo "Hello friends"
 }
